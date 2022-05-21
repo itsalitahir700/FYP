@@ -1,0 +1,46 @@
+.wsm
+{
+    box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+    -webkit-box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+    -moz-box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+
+    padding: 20px;
+margin-right: 20px;
+margin-top: 25px;
+background-color: rgb(250, 253, 255);
+}
+
+
+
+.tt{
+
+    font-size: 28px;
+    font-weight: 600;
+   margin-bottom: 50px;
+}
+.name
+{
+    margin-left: 5px;
+}
+
+.btn
+{
+   margin-left: 20px;
+
+}
+
+
+/*
+.list-group-item
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+*/
+.list-group {
+    margin-top: 15px;
+    width: 100%;
+}
+

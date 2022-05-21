@@ -1,0 +1,60 @@
+.a{
+   
+    background-color: rgb(228, 228, 250);
+    padding-left: 100px;
+    
+}
+
+.health-icon{
+    color: gray;
+    font-size: 35px;
+
+}
+.health-id
+{
+
+    color: gray;
+    font-size: 25px; 
+    padding-left: 5px;
+}
+
+
+.b{
+background-color: whitesmoke;
+   
+}
+.row
+{
+    margin-top: 35px;
+}
+.heart
+{
+    padding-left: 7px;
+    color: rgb(255, 0, 106);
+    font-size: 25px;
+}
+.thead-dark{
+    background-color: rgb(228, 228, 250);
+}
+.socialmedia{
+    background-color: rgb(228, 228, 250);
+    height: 160px;
+    padding-bottom: 40px;
+}
+.titlesocial{
+padding-top: 20px;
+padding-bottom: 20px;
+;
+
+}
+
+.titlesession
+{
+    font-size: 20px;
+}
+
+.session{
+    height: 200px;
+    background-color: whitesmoke;
+
+}

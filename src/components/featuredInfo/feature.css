@@ -1,0 +1,68 @@
+.featured
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.card
+{
+    margin:0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+    -webkit-box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+    -moz-box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+
+  
+
+}
+.card-text
+{
+    color: gray;
+   
+}
+
+.featuredItem
+{
+    flex: 1;
+    margin:0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+    -webkit-box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+    -moz-box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+}
+
+.featuredtitle
+{
+
+    font-size: 20px;
+}
+
+.featuredpatientcontainer
+{
+margin: 10px 0px;
+display: flex;
+align-items: center;
+}
+
+
+.featuredPatients
+{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.ficon
+{
+    color: rgb(134, 147, 206);
+}
+
+.fsub
+{
+    font-size: 15px;
+    color: gray;
+}

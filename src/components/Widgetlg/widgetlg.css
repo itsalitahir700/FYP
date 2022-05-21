@@ -1,0 +1,22 @@
+.Wlg
+{
+    box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+    -webkit-box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+    -moz-box-shadow: 2px -1px 26px 0px rgb(223, 231, 176);
+
+
+    padding: 20px;
+    background-color: rgb(254, 255, 250);
+
+
+}
+
+.widgetTitle
+{
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 600;
+
+
+}
+

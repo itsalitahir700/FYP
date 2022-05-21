@@ -1,0 +1,15 @@
+.footer
+{
+    background-color:      rgb(228, 228, 250);
+    color: black;
+  text-align: center;
+
+  padding: 50px;
+  height: 100px;
+  margin-top: 50px;
+}
+
+.logo{
+  margin-left: 80px;
+  padding-top: 10px;
+}
